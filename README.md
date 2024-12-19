@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Gokul! 🌟
 
-<!--
-**gokulofficial143/gokulofficial143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer | Problem Solver | Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 About Me:
+- 💻 Passionate about coding, data structures, and algorithms.
+- ⚔️ Currently exploring competitive programming to sharpen my skills.
+- 📚 Building a strong foundation in computer science while tackling real-world challenges.
+
+
+🔗 Connect with Me:
+[LinkedIn](linkedin.com/in/gokul-c-bbb457288)  
+[LeetCode](https://leetcode.com/u/gokulc2568/)
