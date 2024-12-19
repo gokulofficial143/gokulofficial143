@@ -11,5 +11,5 @@
 
 
 🔗 Connect with Me:
-[LinkedIn](linkedin.com/in/gokul-c-bbb457288)  
+[LinkedIn](https://linkedin.com/in/gokul-c-bbb457288)  
 [LeetCode](https://leetcode.com/u/gokulc2568/)
